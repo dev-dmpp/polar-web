@@ -1,1 +1,0 @@
-{"root":["./src/main.ts","./src/vite-env.d.ts","./src/content/dialogs.ts","./src/content/profile.ts","./src/core/config.ts","./src/core/gameState.ts","./src/core/input.ts","./src/entities/player.ts","./src/scenes/villaScene.ts","./src/ui/floatingUI.ts","./src/ui/modals.ts"],"version":"5.9.3"}
