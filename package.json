@@ -1,0 +1,23 @@
+{
+  "name": "polar-web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Interactive 2D villa portfolio",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc -b --noEmit"
+  },
+  "dependencies": {
+    "pixi.js": "^8.6.6",
+    "howler": "^2.2.4"
+  },
+  "devDependencies": {
+    "@types/howler": "^2.2.12",
+    "@types/node": "^22.10.5",
+    "typescript": "^5.7.3",
+    "vite": "^6.0.7"
+  }
+}
